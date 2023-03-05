@@ -1,5 +1,5 @@
-# Репозиторий с полезными скриптами на python
+# Repository with useful scripts on python
 
 **FindDownloadImage**
-- Скрипт для поиска картинки в Интернете и скачивания её на компьютер.
+- Script to search for an image on the Internet and download it to your PC.
 
